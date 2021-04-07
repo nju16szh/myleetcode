@@ -8,7 +8,7 @@
 class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
-
+        int a;
     }
 };
 // @lc code=end
